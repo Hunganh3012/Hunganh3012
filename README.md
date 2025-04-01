@@ -3,7 +3,7 @@
 
 - 🧑🏼‍💻 About me : **Passionate about Frontend programming, eager to learn and always looking to improve skills.**
 
-- 🧳 Experience : **Two years**
+- 🧳 Work experience : **Develop web interface, optimize API and improve user experience**
 
 - 📩 Gmail : **nguyenhunganh072017@gmail.com**
 
